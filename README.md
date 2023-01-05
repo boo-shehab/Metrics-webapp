@@ -55,7 +55,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-Coming soon...
+[Live Demo](https://boo-shehab.github.io/Metrics-webapp/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
