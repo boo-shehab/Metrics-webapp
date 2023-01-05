@@ -1,6 +1,6 @@
 {
-  "homepage": "https://boo-shehab.github.io/Metrics-webapp/",
-  "name": "Metrics-webapp",
+  "homepage": "https://boo-shehab.github.io/Metrics-webapp",
+  "name": "metrics-webapp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
