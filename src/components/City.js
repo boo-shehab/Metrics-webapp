@@ -38,11 +38,7 @@ const City = (prop) => {
   if (loading) {
     return (
       <>
-        <div>
-          { country }
-          {' '}
-          { city }
-        </div>
+        <div>loading...</div>
       </>
     );
   }

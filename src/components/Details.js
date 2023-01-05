@@ -35,14 +35,55 @@ const Details = () => {
           <div>{qualtyAir()}</div>
         </div>
         <ul>
-          <li data-testid="component-concentration">{`Сoncentration of CO is: ${data.list[0].components.co} μg/m3`}</li>
-          <li data-testid="component-concentration" className="different-color">{`Сoncentration of NO is: ${data.list[0].components.no} μg/m3`}</li>
-          <li data-testid="component-concentration">{`Сoncentration of NO2 is: ${data.list[0].components.no2} μg/m3`}</li>
-          <li data-testid="component-concentration" className="different-color">{`Сoncentration of O3 is: ${data.list[0].components.o3} μg/m3`}</li>
-          <li data-testid="component-concentration">{`Сoncentration of SO2 is: ${data.list[0].components.so2} μg/m3`}</li>
-          <li data-testid="component-concentration" className="different-color">{`Сoncentration of PM2.5 is: ${data.list[0].components.pm2_5} μg/m3`}</li>
-          <li data-testid="component-concentration">{`Сoncentration of PM10 is: ${data.list[0].components.pm10} μg/m3`}</li>
-          <li data-testid="component-concentration" className="different-color">{`Сoncentration of NH3 is: ${data.list[0].components.nh3} μg/m3`}</li>
+          <li data-testid="component-concentration">
+            {`Сoncentration of CO is: ${data.list[0].components.co} μg/m`}
+            <sup>3</sup>
+          </li>
+          <li data-testid="component-concentration" className="different-color">
+            {`Сoncentration of NO is: ${data.list[0].components.no} μg/m`}
+            <sup>3</sup>
+          </li>
+          <li data-testid="component-concentration">
+            Сoncentration of NO
+            <sub>2</sub>
+            {' '}
+            {`is: ${data.list[0].components.no2} μg/m`}
+            <sup>3</sup>
+          </li>
+          <li data-testid="component-concentration" className="different-color">
+            Сoncentration of O
+            <sub>3</sub>
+            {` is: ${data.list[0].components.o3} μg/m`}
+            <sup>3</sup>
+          </li>
+          <li data-testid="component-concentration">
+            Сoncentration of SO
+            <sub>2</sub>
+            {' '}
+            {`is: ${data.list[0].components.so2} μg/m`}
+            <sup>3</sup>
+          </li>
+          <li data-testid="component-concentration" className="different-color">
+            Сoncentration of PM
+            <sub>2.5</sub>
+            {' '}
+            {`is: ${data.list[0].components.pm2_5} μg/m`}
+            <sup>3</sup>
+          </li>
+          <li data-testid="component-concentration">
+            Сoncentration of PM
+            <sub>10</sub>
+            {' '}
+            {`is: ${data.list[0].components.pm10} μg/m`}
+            <sup>3</sup>
+          </li>
+          <li data-testid="component-concentration" className="different-color">
+            Сoncentration of NH
+            <sub>3</sub>
+            {' '}
+            {`is: ${data.list[0].components.nh3} μg/m`}
+            <sup>3</sup>
+          </li>
         </ul>
       </section>
     </div>

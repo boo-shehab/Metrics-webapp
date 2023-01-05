@@ -1,7 +1,7 @@
 /* eslint-disable no-param-reassign */
 import { createSlice, createAsyncThunk } from '@reduxjs/toolkit';
 
-export const fetchAirPollution = createAsyncThunk('AirPollution/fetchMissions', async ({ lat, lon, index }, { rejectWithValue }) => {
+export const fetchAirPollution = createAsyncThunk('AirPollution/fetchData', async ({ lat, lon, index }, { rejectWithValue }) => {
   try {
     const data = await fetch(`https://api.openweathermap.org/data/2.5/air_pollution/forecast?lat=${lat}&lon=${lon}&appid=b0ac3780a5e8e63dac4f5d6be5d347a4`).then((response) => response.json());
     return { data, index };
