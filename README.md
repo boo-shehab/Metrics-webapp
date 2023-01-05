@@ -28,6 +28,8 @@
 - Check the air pollution.
 - serch for the cites.
 
+this is a [video](https://www.loom.com/share/736c774cb5574c2cb2babbcb4fe375f7) to explane the website 
+
 </br>
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -89,7 +91,7 @@ Clone this repository to your desired folder:
 Install this project with:
 
 ```sh
-  cd Math Magicians
+  cd Metrics Webapp
   npm install
 ```
 
@@ -118,7 +120,8 @@ To run the project, execute the following command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- there is no future right now
+- change the stile.
+- an api for all the cites.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -142,7 +145,7 @@ If you like this project please leave a star🤩
 
 <!-- ACKNOWLEDGEMENTS -->
 
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
+## 🙏 Acknowledgments <a href="https://www.behance.net/sakwadesignstudio" name="Nelson Sakwa">Nelson Sakwa</a>
 
 - [Microverse](https://www.microverse.org/)
 
