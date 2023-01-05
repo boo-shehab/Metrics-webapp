@@ -1,0 +1,437 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders Categories React-Redux Component should render with given state from Redux store 1`] = `
+<div
+  className="container"
+>
+  <header>
+    <img
+      alt="logo"
+      className="logo"
+      src="logo.png"
+    />
+    <form>
+      <input
+        onChange={[Function]}
+        type="search"
+      />
+    </form>
+  </header>
+  <div>
+    <div
+      className="card-container"
+    >
+      <a
+        href="/Details"
+        onClick={[Function]}
+        style={
+          Object {
+            "textDecoration": "none",
+          }
+        }
+      >
+        <div
+          className="card"
+        >
+          <div>
+            <div>
+              city:
+               
+              London
+            </div>
+            <div>
+              country:
+               
+              United Kingdom
+            </div>
+          </div>
+          <div>
+            date:
+             
+            04/01/2023
+          </div>
+          <div>
+            air qualty:
+             
+            Good
+          </div>
+        </div>
+      </a>
+      <a
+        href="/Details"
+        onClick={[Function]}
+        style={
+          Object {
+            "textDecoration": "none",
+          }
+        }
+      >
+        <div
+          className="card"
+        >
+          <div>
+            <div>
+              city:
+               
+              Birmingham
+            </div>
+            <div>
+              country:
+               
+              United Kingdom
+            </div>
+          </div>
+          <div>
+            date:
+             
+          </div>
+          <div>
+            air qualty:
+             
+          </div>
+        </div>
+      </a>
+      <a
+        href="/Details"
+        onClick={[Function]}
+        style={
+          Object {
+            "textDecoration": "none",
+          }
+        }
+      >
+        <div
+          className="card"
+        >
+          <div>
+            <div>
+              city:
+               
+              Manchester
+            </div>
+            <div>
+              country:
+               
+              United Kingdom
+            </div>
+          </div>
+          <div>
+            date:
+             
+          </div>
+          <div>
+            air qualty:
+             
+          </div>
+        </div>
+      </a>
+      <a
+        href="/Details"
+        onClick={[Function]}
+        style={
+          Object {
+            "textDecoration": "none",
+          }
+        }
+      >
+        <div
+          className="card"
+        >
+          <div>
+            <div>
+              city:
+               
+              Leeds
+            </div>
+            <div>
+              country:
+               
+              United Kingdom
+            </div>
+          </div>
+          <div>
+            date:
+             
+          </div>
+          <div>
+            air qualty:
+             
+          </div>
+        </div>
+      </a>
+      <a
+        href="/Details"
+        onClick={[Function]}
+        style={
+          Object {
+            "textDecoration": "none",
+          }
+        }
+      >
+        <div
+          className="card"
+        >
+          <div>
+            <div>
+              city:
+               
+              Newcastle
+            </div>
+            <div>
+              country:
+               
+              United Kingdom
+            </div>
+          </div>
+          <div>
+            date:
+             
+          </div>
+          <div>
+            air qualty:
+             
+          </div>
+        </div>
+      </a>
+      <a
+        href="/Details"
+        onClick={[Function]}
+        style={
+          Object {
+            "textDecoration": "none",
+          }
+        }
+      >
+        <div
+          className="card"
+        >
+          <div>
+            <div>
+              city:
+               
+              Birstall
+            </div>
+            <div>
+              country:
+               
+              United Kingdom
+            </div>
+          </div>
+          <div>
+            date:
+             
+          </div>
+          <div>
+            air qualty:
+             
+          </div>
+        </div>
+      </a>
+      <a
+        href="/Details"
+        onClick={[Function]}
+        style={
+          Object {
+            "textDecoration": "none",
+          }
+        }
+      >
+        <div
+          className="card"
+        >
+          <div>
+            <div>
+              city:
+               
+              Glasgow
+            </div>
+            <div>
+              country:
+               
+              United Kingdom
+            </div>
+          </div>
+          <div>
+            date:
+             
+          </div>
+          <div>
+            air qualty:
+             
+          </div>
+        </div>
+      </a>
+      <a
+        href="/Details"
+        onClick={[Function]}
+        style={
+          Object {
+            "textDecoration": "none",
+          }
+        }
+      >
+        <div
+          className="card"
+        >
+          <div>
+            <div>
+              city:
+               
+              Liverpool
+            </div>
+            <div>
+              country:
+               
+              United Kingdom
+            </div>
+          </div>
+          <div>
+            date:
+             
+          </div>
+          <div>
+            air qualty:
+             
+          </div>
+        </div>
+      </a>
+      <a
+        href="/Details"
+        onClick={[Function]}
+        style={
+          Object {
+            "textDecoration": "none",
+          }
+        }
+      >
+        <div
+          className="card"
+        >
+          <div>
+            <div>
+              city:
+               
+              Portsmouth
+            </div>
+            <div>
+              country:
+               
+              United Kingdom
+            </div>
+          </div>
+          <div>
+            date:
+             
+          </div>
+          <div>
+            air qualty:
+             
+          </div>
+        </div>
+      </a>
+      <a
+        href="/Details"
+        onClick={[Function]}
+        style={
+          Object {
+            "textDecoration": "none",
+          }
+        }
+      >
+        <div
+          className="card"
+        >
+          <div>
+            <div>
+              city:
+               
+              Southampton
+            </div>
+            <div>
+              country:
+               
+              United Kingdom
+            </div>
+          </div>
+          <div>
+            date:
+             
+          </div>
+          <div>
+            air qualty:
+             
+          </div>
+        </div>
+      </a>
+      <a
+        href="/Details"
+        onClick={[Function]}
+        style={
+          Object {
+            "textDecoration": "none",
+          }
+        }
+      >
+        <div
+          className="card"
+        >
+          <div>
+            <div>
+              city:
+               
+              Nottingham
+            </div>
+            <div>
+              country:
+               
+              United Kingdom
+            </div>
+          </div>
+          <div>
+            date:
+             
+          </div>
+          <div>
+            air qualty:
+             
+          </div>
+        </div>
+      </a>
+      <a
+        href="/Details"
+        onClick={[Function]}
+        style={
+          Object {
+            "textDecoration": "none",
+          }
+        }
+      >
+        <div
+          className="card"
+        >
+          <div>
+            <div>
+              city:
+               
+              Bristol
+            </div>
+            <div>
+              country:
+               
+              United Kingdom
+            </div>
+          </div>
+          <div>
+            date:
+             
+          </div>
+          <div>
+            air qualty:
+             
+          </div>
+        </div>
+      </a>
+    </div>
+  </div>
+</div>
+`;
