@@ -3,10 +3,12 @@ section {
   padding-bottom: 20px;
   color: white;
 }
+
 a {
   color: white;
   text-decoration: none;
 }
+
 .details-header {
   display: flex;
   justify-content: space-between;
@@ -19,6 +21,6 @@ ul {
 
 ul li {
   padding: 15px;
-  border: 1px solid #474F7E;
-  background-color: #5963C4;
+  border: 1px solid #474f7e;
+  background-color: #5963c4;
 }

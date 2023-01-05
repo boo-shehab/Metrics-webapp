@@ -8,12 +8,13 @@ form input {
 
 .card-container {
   display: grid;
-  grid-template-columns: repeat(auto-fill,minmax(250px,1fr));
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
   gap: 10px;
 }
+
 .card {
-  border: 1px solid #474F7E;
-  background-color: #5963C4;
+  border: 1px solid #474f7e;
+  background-color: #5963c4;
   color: white;
   overflow: hidden;
   padding: 20px;
