@@ -120,7 +120,8 @@ To run the project, execute the following command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- there is no future right now
+- change the stile.
+- an api for all the cites.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
