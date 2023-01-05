@@ -7,14 +7,14 @@ import Details from './components/Details';
 
 function App() {
   return (
-    <Provider store={Store}>
-      <BrowserRouter>
+    <BrowserRouter>
+      <Provider store={Store}>
         <Routes>
           <Route path="/" element={<Categories />} />
           <Route path="/Details" element={<Details />} />
         </Routes>
-      </BrowserRouter>
-    </Provider>
+      </Provider>
+    </BrowserRouter>
   );
 }
 
