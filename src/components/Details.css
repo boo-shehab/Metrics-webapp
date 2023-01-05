@@ -1,0 +1,26 @@
+section {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: white;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+.details-header {
+  display: flex;
+  justify-content: space-between;
+}
+
+ul {
+  list-style: none;
+  padding: 10px 0;
+}
+
+ul li {
+  padding: 15px;
+  border: 1px solid #474f7e;
+  background-color: #5963c4;
+}
